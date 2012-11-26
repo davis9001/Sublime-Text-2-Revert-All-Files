@@ -1,0 +1,13 @@
+[
+{
+	"id": "file",
+	"children":
+	[
+		{
+			"caption": "-",
+			"id": "revert_all"
+		},
+		{ "command": "revert_all", "caption": "Revert All Files" }
+	]
+}
+]
