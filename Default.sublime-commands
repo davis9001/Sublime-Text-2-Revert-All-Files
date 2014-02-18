@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "File: Revert All Files",
+        "command": "revert_all"
+    },
+]
